@@ -1,0 +1,12 @@
+.imgs{
+    box-sizing: border-box;
+    height: 140px;
+    width: 160px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0.2px solid #fffdf7;
+}
+
+.imgs:hover{
+    border: 1px solid #6e2594;
+}

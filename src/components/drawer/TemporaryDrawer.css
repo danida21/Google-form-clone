@@ -1,0 +1,27 @@
+.listDrawer{
+    margin: 15px 8px 0 8px;
+}
+
+.listItem{
+    margin-right: 10px;
+}
+
+.listItem:hover {
+    background-color: #f4f4f9;
+    border-radius: 0 20px 20px 0;
+    color: black;
+}
+
+
+
+.ListItemImg{
+    height: 20px;
+    width: 20px;
+}
+
+.ListItemText{
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    color: gray;
+}

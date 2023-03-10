@@ -1,0 +1,15 @@
+.root{
+    flex-grow: 1;
+}
+
+.tabs{
+    font-size: 12;
+    color: "#5f6368";
+    text-transform: "capitalize";
+    font-weight: "600";
+    font-family: "Google Sans", Roboto, Arial, sans-serif; 
+}
+
+.tab{
+    height:10;
+}
